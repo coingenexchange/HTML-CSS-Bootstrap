@@ -1,4 +1,3 @@
-# dixons front-end task
 ## tools / modules used: npm, scss, http-server, gulp, bower
 ### by Zayn Zafar
 
